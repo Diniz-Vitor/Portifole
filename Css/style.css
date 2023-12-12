@@ -3,13 +3,18 @@
     margin: 0;
     padding: 0;
     font-family: "Exo+2";
+    
 }
 
 body{
+    
     width: 100vw;
     height: 100vh;
-    background:#062863 ;
+    background-image: url('/assets/Ceu\ Rocha.PNG');
+}
 
+main{
+   
 }
 
 .cabecariohome{
@@ -43,7 +48,8 @@ border-radius: 16px;
 width: 250px;
 display: flex;
 margin-top: 30px;
-margin-left: 100px;   
+margin-left: 100px;  
+border-radius: 16px; 
 }
 
 .sobremim h1{
