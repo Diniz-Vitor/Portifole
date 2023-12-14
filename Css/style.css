@@ -24,7 +24,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 margin-top: 30px;
-margin-left: 330px;
+margin-left: 450px;
 border: 1px solid white;
 border-radius: 16px;
 }
@@ -39,7 +39,7 @@ border-radius: 16px;
 width: 1200px;
 height: 400px;
 margin-top: 120px;
-margin-left: 230px;
+margin-left: 350px;
 border-radius: 16px;
     border: 1px solid white;
 }
@@ -54,7 +54,7 @@ border-radius: 16px;
 
 .sobremim h1{
 color: #5ccda7;    
-margin-left: 700px;
+margin-left: 510px;
 margin-top: -330px;
 }
 
@@ -111,14 +111,14 @@ margin-top: -23px;
 .Portfolio h5{
     color: #5ccda7;
     font-size: 30px;    
-margin-left: 800px;
+margin-left: 900px;
 margin-top: 30px;
  }
  
 .Portfolio h2{
     color:#FFFFFF;
     font-size: 20px;    
-margin-left: 120px;
+margin-left: 890px;
 margin-top: 60px;
     
 }
@@ -126,7 +126,7 @@ margin-top: 60px;
 .batman{
     width: 360px;
     height: 460px;
-    margin-left: 70px;
+    margin-left: 185px;
     margin-top: 50px;
     border: 2px solid white;
     border-radius: 16px;
@@ -187,7 +187,7 @@ margin-left: 30px;
 .Clonesistok{
     width: 360px;
     height: 460px;
-    margin-left: 460px;
+    margin-left: 570px;
     margin-top: -465px;
     border: 2px solid white;
     border-radius: 16px;
@@ -249,7 +249,7 @@ margin-left: 30px;
 .Obirtshift {
     width: 360px;
     height: 460px;
-    margin-left: 850px;
+    margin-left: 960px;
     margin-top: -465px;
     border: 2px solid white;
     border-radius: 16px;
@@ -309,7 +309,7 @@ margin-left: 30px;
 .CloneSkambo {
     width: 360px;
     height: 460px;
-    margin-left: 1240px;
+    margin-left: 1350px;
     margin-top: -465px;
     border: 2px solid white;
     border-radius: 16px;
@@ -330,7 +330,6 @@ margin-left: 30px;
 .CloneSkambo h2{
     margin-top: 10px;
     margin-left: 90px;
-
     color: #ffffff;
 }
 
@@ -369,15 +368,15 @@ margin-left: 30px;
 .Skills h1{
     color: #FFFFFF;
     font-size: 20px;    
-    margin-left: 120px;
-    margin-top: 60px;
+    margin-left: 940px;
+    margin-top: 120px;
 }
 
 
 .Skills h2{
     color: #5ccda7;
     font-size: 30px;    
-margin-left: 750px;
+margin-left: 830px;
 margin-top: 30px;
  }
  
@@ -385,37 +384,56 @@ margin-top: 30px;
  .imgskills {
     width: 100vw;
     height: 80px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
- }
+    margin-left: 820px;
+
+    }
 
  .img-skills{
      margin-top: 50px;
      margin-right: 30px;
+
  }
 
 
  .Contato h1 {
     color: #FFFFFF;
     font-size: 20px;    
-    margin-left: 120px;
-    margin-top: 100px;
+    margin-left: 940px;
+    margin-top: 120px;
  }
 
  .Contato h2 {
     color: #5ccda7;
  font-size: 30px;    
-margin-left: 750px;
+margin-left: 880px;
 margin-top: 30px;
  }
 
- .Contato button{
-    width: 246px;
-    height: 60px;
-    border-radius: 16px;
-    color: #FFFFFF;
-    background-color: #006414;
+.Linkscontato {
+    margin-left: 900px;
+    margin-top: 25px;
+}
+
+
+.Linkscontato img{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
    
- }
+}
+
+.rodape{
+    width: 1534px;
+    height: 50px;
+    margin-left: 182px;
+    margin-top: 100px;
+    background: black;
+    border:  2px solid black;
+}
+.rodape h1 {
+    font-size: 18px;
+    margin-top: 15px;
+    margin-left: 700px;
+}
+
 
